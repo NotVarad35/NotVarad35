@@ -39,7 +39,10 @@ Currently, I am expanding my foundational knowledge into the Game Development sp
 * Refined my custom **Debian/WSL Docker Homelab** (running Jellyfin, the *arr stack, and Tailscale).
 
 ### 💡 Fun Fact / Technical Story
-To bypass strict hardware and battery limitations, I iteratively built my local server network **four different times** [1]. During the final Docker/WSL build, I encountered a persistent "504 Gateway Timeout" bug that even AI models couldn't diagnose [1]. By systematically isolating variables and testing localhost connections, I traced the root cause to an active browser VPN extension routing through Hong Kong! It taught me never to guess, and to always check the networking basics.
+I once saw a cool local AI project online, but the developer hadn't released the source code. Determined to recreate it myself, I faced a major hardware constraint: I didn't have a dedicated GPU. Instead of giving up, I decided to test the absolute limits of my integrated graphics (iGPU).
+
+I built the project modularly: first a script to capture desktop screenshots, then integrating an Ollama 7B parameter vision model to analyze the images, and finally routing the AI's responses through a custom VTuber text-to-speech voice. When I finally integrated all the modules and ran the full pipeline, it worked perfectly! However, forcing an iGPU to process a 7B model pushed my hardware so hard that my CPU fan spun up sounding like a literal jet engine. I even recorded the noise to show my friends what happens when you make an iGPU do a dGPU's job! 
+
 
 📫 **Reach me at:**
 
