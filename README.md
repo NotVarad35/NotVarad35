@@ -1,4 +1,5 @@
 # Hi, I'm NotVarad 👋
+<!---![](https://komarev.com/ghpvc/?username=NotVarad35)--->
 
 I am self-taught in hardware and software, driven by a deep curiosity for how complex systems work at their core. As an avid PC and console gamer, I genuinely have fun building custom server environments, automating workflows, and systematically hunting down software bugs. 
 
