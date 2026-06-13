@@ -1,11 +1,11 @@
-# Hi, I'm NotVarad 👋
+# Hi, I'm NotVarad 
 <!---![](https://komarev.com/ghpvc/?username=NotVarad35)--->
 
 I am self-taught in hardware and software, driven by a deep curiosity for how complex systems work at their core. I genuinely have fun building custom server environments, automating workflows, and systematically hunting down software bugs. 
 
 Currently, I am expanding my foundational knowledge into the Game Development space to understand the internal game-making processes and development cycles used in AAA studios.
 
-### 🛠️ Core Skills & Technologies
+### Core Skills & Technologies
 
 **Languages:**  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -34,18 +34,18 @@ Currently, I am expanding my foundational knowledge into the Game Development sp
 
 ---
 
-### 🚀 What I Have Worked On
+### What I Have Worked On
 * Deep-diving into **Unity** to understand how core game development and game loops work.
 * Prepping to learn **C#** and **C++** to build more complex, interactive systems.
 * Refined my custom **Debian/WSL Docker Homelab** (running Jellyfin, the *arr stack, and Tailscale).
 
-### 💡 Fun Fact / Technical Story
+### Fun Fact / Technical Story
 I once saw a cool local AI project online, but the developer hadn't released the source code. Determined to recreate it myself, I faced a major hardware constraint: I didn't have a dedicated GPU. Instead of giving up, I decided to test the absolute limits of my integrated graphics (iGPU).
 
 I built the project modularly: first a script to capture desktop screenshots, then integrating an Ollama 7B parameter vision model to analyze the images, and finally routing the AI's responses through a custom VTuber text-to-speech voice. When I finally integrated all the modules and ran the full pipeline, it worked perfectly! However, forcing an iGPU to process a 7B model pushed my hardware so hard that my CPU fan spun up sounding like a literal jet engine. I even recorded the noise to show my friends what happens when you make an iGPU do a dGPU's job! 
 
 
-📫 **Reach me at:**
+**Reach me at:**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/notvarad/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:3507varad@gmail.com)
